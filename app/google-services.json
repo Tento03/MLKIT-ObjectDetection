@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680254943386",
+    "project_id": "sosmed-8660b",
+    "storage_bucket": "sosmed-8660b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680254943386:android:e457c1dfcf7c25fec06f23",
+        "android_client_info": {
+          "package_name": "com.example.sosmed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOwFpWJdqMO68YUGvjdQMVLSStFwJTeHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
